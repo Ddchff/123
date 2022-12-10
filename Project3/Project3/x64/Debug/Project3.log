@@ -1,0 +1,7 @@
+﻿  Area_graph.cpp
+C:\Users\S340\source\repos\Project3\Project3\Area_graph.h(10,17): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\S340\source\repos\Project3\Project3\Area_graph.cpp(32,78): warning C4309: =: усечение константного значения
+C:\Users\S340\source\repos\Project3\Project3\Area_graph.cpp(35,64): warning C4309: =: усечение константного значения
+C:\Users\S340\source\repos\Project3\Project3\Area_graph.cpp(55,37): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\S340\source\repos\Project3\Project3\Area_graph.cpp(60,16): warning C4309: =: усечение константного значения
+  Project3.vcxproj -> C:\Users\S340\source\repos\Project3\x64\Debug\Project3.exe
